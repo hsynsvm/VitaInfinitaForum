@@ -1,0 +1,7 @@
+C:\Users\ramse\Desktop\C# Ödevler\VitaInfinitaForum\bin\Debug\VitaInfinitaForum.exe.config
+C:\Users\ramse\Desktop\C# Ödevler\VitaInfinitaForum\bin\Debug\VitaInfinitaForum.exe
+C:\Users\ramse\Desktop\C# Ödevler\VitaInfinitaForum\bin\Debug\VitaInfinitaForum.pdb
+C:\Users\ramse\Desktop\C# Ödevler\VitaInfinitaForum\obj\Debug\VitaInfinitaForum.csproj.AssemblyReference.cache
+C:\Users\ramse\Desktop\C# Ödevler\VitaInfinitaForum\obj\Debug\VitaInfinitaForum.csproj.CoreCompileInputs.cache
+C:\Users\ramse\Desktop\C# Ödevler\VitaInfinitaForum\obj\Debug\VitaInfinitaForum.exe
+C:\Users\ramse\Desktop\C# Ödevler\VitaInfinitaForum\obj\Debug\VitaInfinitaForum.pdb
